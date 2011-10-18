@@ -54,6 +54,7 @@ Class SymphonyLoader
             'contentsystempreferences'      => CONTENT . '/content.systempreferences.php',
             'cookie'                        => CORE    . '/class.cookie.php',
             'cryptography'                  => TOOLKIT . '/class.cryptography.php',
+            'database'                      => TOOLKIT . '/class.database.php',
             'databaseexception'             => TOOLKIT . '/class.mysql.php',
             'databaseexceptionhandler'      => CORE    . '/class.symphony.php',
             'datasource'                    => TOOLKIT . '/class.datasource.php',
